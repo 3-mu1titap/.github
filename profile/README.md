@@ -1190,19 +1190,19 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
       <td height="200px" align="center"> 
         <a href="https://github.com/dani001024">
           <img src="./Adaptors_assets/김예진.png" width="140px" /> 
-          <span style="display: block; text-align: center;">김예진 <br>(Frontend)</span>
+          <span style="display: block; text-align: center;"> <br> 김예진 <br>(Frontend)</span>
         </a>
       </td>
       <td height="200px" align="center">
         <a href="https://github.com/seolchanwoo">
           <img src="./Adaptors_assets/설찬우.png" width="160px" /> 
-          <span style="display: block; text-align: center;">설찬우 <br>(Frontend)</span>
+          <span style="display: block; text-align: center;"> <br> 설찬우 <br>(Frontend)</span>
         </a>
       </td>
       <td height="200px" align="center">
         <a href="https://github.com/AndreaStudy">
           <img src="./Adaptors_assets/정훈석.jpg" width="160px" /> 
-          <span style="display: block; text-align: center;">정훈석 <br>(Frontend)</span>
+          <span style="display: block; text-align: center;"> <br> 정훈석 <br>(Frontend)</span>
         </a>
       </td> 
     </tr>
@@ -1210,19 +1210,19 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
       <td height="200px" align="center">
         <a href="https://github.com/kang-subin">
           <img src="./Adaptors_assets/강수빈.png" width="160px" /> 
-          <span style="display: block; text-align: center;">강수빈 <br>(Backend)</span>
+          <span style="display: block; text-align: center;"> <br> 강수빈 <br>(Backend)</span>
         </a>
       </td>
       <td height="200px" align="center">
         <a href="https://github.com/everydayday">
           <img src="./Adaptors_assets/김대희.png" width="160px" /> 
-          <span style="display: block; text-align: center;">김대희 <br>(Backend)</span>
+          <span style="display: block; text-align: center;"> <br> 김대희 <br>(Backend)</span>
         </a>
       </td>
       <td height="200px" align="center">
         <a href="https://github.com/Seong-Tae-Kim">
           <img src="./Adaptors_assets/김성태.png" width="160px" /> 
-          <span style="display: block; text-align: center;">김성태 <br>(Backend)</span>
+          <span style="display: block; text-align: center;"> <br> 김성태 <br>(Backend)</span>
         </a>
       </td>
     </tr>
@@ -1230,19 +1230,19 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
       <td height="200px" align="center">
         <a href="https://github.com/Jung-Hey">
           <img src="./Adaptors_assets/허정현.png" width="160px" /> 
-          <span style="display: block; text-align: center;">허정현 <br>(Backend)</span>
+          <span style="display: block; text-align: center;"> <br> 허정현 <br>(Backend)</span>
         </a>
       </td>
       <td height="200px" align="center">
         <a href="https://github.com/Baek-Seungyeop">
           <img src="./Adaptors_assets/백승엽.png" width="160px" /> 
-          <span style="display: block; text-align: center;">백승엽 <br>(Backend&DevOps)</span>
+          <span style="display: block; text-align: center;"> <br> 백승엽 <br>(Backend&DevOps)</span>
         </a>
       </td>
       <td height="200px" align="center">
         <a href="https://github.com/daegwan00">
           <img src="./Adaptors_assets/오대관.png" width="160px" /> 
-          <span style="display: block; text-align: center;">오대관 <br>(DevOps)</span>
+          <span style="display: block; text-align: center;"> <br> 오대관 <br>(DevOps)</span>
         </a>
       </td>
     </tr>
