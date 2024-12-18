@@ -719,7 +719,6 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
 <a name="projectDeliverables"></a>
 
 <h3>💡 이벤트 스토밍</h3>
-<div align="center">
 
 <details>
   <summary>
@@ -821,9 +820,7 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
 </details>
 </div>
 
-<div align="center"> 
 <h3>🗄️ ERD</h3>
-</div>
 
 <details>
   <summary>
