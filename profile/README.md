@@ -83,7 +83,6 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)<br>
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -736,13 +735,13 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
     멘토링
   </summary>
 
-![멘토링1.png](C:\Users\ssginc53\AppData\Roaming\marktext\images\709e8cc0fbd661a9d2bcfb2b364d1af3a8d3edcb.png)
+![멘토링1.png](README_assets/709e8cc0fbd661a9d2bcfb2b364d1af3a8d3edcb.png)
 
-![멘토링2.png](C:\Users\ssginc53\AppData\Roaming\marktext\images\27708d2ce28a7f317aff7a4e8237f000b7601d89.png)
+![멘토링2.png](README_assets/27708d2ce28a7f317aff7a4e8237f000b7601d89.png)
 
-![멘토링3.png](C:\Users\ssginc53\AppData\Roaming\marktext\images\a912ef06e966a94f3815948c5bf3d87b2f36408b.png)
+![멘토링3.png](README_assets/a912ef06e966a94f3815948c5bf3d87b2f36408b.png)
 
-![멘토링4.png](C:\Users\ssginc53\AppData\Roaming\marktext\images\e0f723d20c8816c9c009bc18b3a959684eeb9ae4.png)
+![멘토링4.png](README_assets/e0f723d20c8816c9c009bc18b3a959684eeb9ae4.png)
 
 </details>
 
