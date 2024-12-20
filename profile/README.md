@@ -134,7 +134,9 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능. <br>
 
 ## 🌐 시스템 아키텍처
 
+<div align="center">
 <img src="Adaptors_assets/61294a15f2eaae4c9a99c77fb8876aca26d1d21e.png" title="" alt="1.png" width="651">
+</div>
 
 <br>
 
