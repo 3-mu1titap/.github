@@ -825,6 +825,7 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능. <br>
 
 <h3>🗄️ ERD</h3>
 
+<div align="center">
 <details>
   <summary>
     리뷰
@@ -977,19 +978,26 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능. <br>
 ![회원해시태그.png](Adaptors_assets/a2312f5cc277906a655ff55c41700f9312fd95ca.png)
 
 </details>
+</div>
 
 <br>
 
 <h3><a href="#" target="_blank">📅 WBS</a></h3>
 
+<div align="center">
 <a href="https://docs.google.com/spreadsheets/d/1-uyLNsqlIY9ioqTycblgH-npXIrRUT7gwRd6SWAMFIk/edit?gid=0#gid=0"> WBS
+</div>
 
 <h3><a href="#" target="_blank">📋 요구사항 정의서</a></h3>
+<div align="center">
+
+</div>
 
 <br>
 
 <h3><a href="#" target="_blank">📡 API 명세서</a></h3>
 
+<div align="center">
 <details>
   <summary>
     aifeedback-service
@@ -1178,6 +1186,7 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능. <br>
 ![session-request-query.png](Adaptors_assets/62479a46355b7855b3e9d9792c6bfd5124424527.png)
 
 </details>
+</div>
 
 ## 🌟 팀원 구성
 
