@@ -821,10 +821,9 @@ AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능. <br>
 ![멘토링 추천.png](Adaptors_assets/333bec18fd902504fc1047e727e5c50be59bd053.png)
 
 </details>
+</div>
 
 <h3>🗄️ ERD</h3>
-<div align="center"> 
-</div>
 
 <details>
   <summary>
