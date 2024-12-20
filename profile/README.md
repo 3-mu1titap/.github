@@ -2,20 +2,22 @@
 
 ![cover.png](Adaptors_assets/00f37fc3b8ee328d3f2480bdc7d1c1d7ff715deb.png)
 
-모두를 연결하라! Adaptors! <br>
+## 🗨모두를 연결하라! Adaptors!<br>
+<div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
 취업/이직에 특화된 쉽고 편리한 멘토링 플랫폼. <br>
-AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능 <br>
+AI피드백, 화상•채팅 서비스, 간편한 멘토링 생성 기능. <br>
 대용량 트래픽에 대한 분산처리가 가능한 MSA(Micro Service Architecture) 구조의 프로젝트입니다. <br><br>
+</div>
 
-### 특징
+### 📌 특징 
 
-- EDA(Event Driven Design)를 적용, 카프카 이벤트 기반으로 느슨한 결합을 가집니다.
-- 각 서비스들의 독립적 DB구조에서 효율적 집계를 담당하는 Batch-service.
-- 카프카 소스/싱크 커넥트를 사용한 CDC 기반 데이터 동기화 처리.
-- CQRS (Command and Query Responsibility Segregation) 적용. <br>
-  쓰기와 읽기의 책임을 명확히 분리하였습니다.
-- 헥사고날 아키텍처를 적용하여 기술 코드와 비즈니스 코드를 분리. <br>
-  도메인로직에 집중 하여 기술적 요구사항에 빠르게 대응할 수 있도록 했습니다.
+✔ EDA(Event Driven Design)를 적용, 카프카 이벤트 기반의 느슨한 결합</div><br>
+✔ 각 서비스들의 독립적 DB구조에서 효율적 집계를 담당하는 Batch-service</div><br>
+✔ 카프카 소스/싱크 커넥트를 사용한 CDC 기반 데이터 동기화 처리</div><br>
+✔ CQRS (Command and Query Responsibility Segregation) 적용</div><br>
+✔ 헥사고날 아키텍처를 적용하여 기술 코드와 비즈니스 코드를 분리</div><br>
+✔ 도메인 로직에 집중하여 기술적 요구사항에 빠르게 대응</div>
+
 
 <hr>
 
