@@ -1,6 +1,6 @@
 # 🔌 Adaptors
 
-![cover.png](Adaptors_assets/00f37fc3b8ee328d3f2480bdc7d1c1d7ff715deb.png)
+![cover.png](Adaptors_assets/image.png)
 
 ## 🗨모두를 연결하라! Adaptors!<br>
 <div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px;">
