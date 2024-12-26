@@ -1,3 +1,12 @@
+<p  style="font-family: 'Georgia', serif; font-size: 14px; color: gray;">
+  🎓 실무형 SW 인재 양성 프로그램 🎓  
+  <br>
+  <span style="font-family: 'Courier New', monospace; font-size: 10px;">🚀 Spharos Academy 🚀</span>
+</p>
+
+
+
+
 # 🔌 Adaptors
 
 ![cover.png](Adaptors_assets/image.png)
